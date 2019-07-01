@@ -237,7 +237,8 @@ export default {
 
       
       }
-      console.log(option);
+      // console.log(option);
+      console.log(123);
       this.myChart.setOption(option, true);
        this.rankData.shift();
     }
