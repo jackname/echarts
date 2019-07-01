@@ -87,8 +87,8 @@ export default {
       // this.strSort(this.rankData[0].series);
       // 排行数据
       this.rankData.push(this.sdata);
-      // console.log(this.rankData[0]);
-      // console.log(this.rankData[1]);
+      console.log(this.rankData[0]);
+      console.log(this.rankData[1]);
       var title = "title";
       var playInterval = 1000;
       var _self = this;
